@@ -1,7 +1,6 @@
 <div align=center>
 
-<h3>![image](https://github.com/user-attachments/assets/6613c206-fe02-4e7c-a008-26ddc904b6de)
- Tech Stack </h3>
+<h3> Tech Stack </h3>
 
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
